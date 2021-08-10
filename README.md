@@ -5,3 +5,5 @@ The Website assigned to you is:
 https://www.dsw.com/en/us/category/mens-shoes/N-1z141hwZ1z141ju 
 
 The above url contains around 3740 shoes, we need to scrape data for all those shoes.
+
+I have used Selenium along with chromedriver for this assignment.
